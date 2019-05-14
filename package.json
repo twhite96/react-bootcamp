@@ -1,0 +1,24 @@
+{
+  "name": "react-bootcamp",
+  "version": "1.0.0",
+  "description": "assignments and projects for The Modern React Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twhite96/react-bootcamp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twhite96/react-bootcamp/issues"
+  },
+  "homepage": "https://github.com/twhite96/react-bootcamp#readme",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
